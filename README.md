@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/damilolaolujobidavid"><img src="https://api.daily.dev/devcards/v2/nkd7x7sgv7vrENmSuT9F9.png?r=7ts&type=wide" width="652" alt="Damilola Olujobi David's Dev Card"/></a>
 
-# hey, i'm olujobi damilola david 👋
+# hey, i'm dammy 👋
 
 **backend developer** | building APIs, databases, and CLI tools
 
