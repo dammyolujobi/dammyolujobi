@@ -22,11 +22,14 @@ currently learning **Rust** 🦀 | based in **Nigeria 🇳🇬**
 
 ---
 
-## 📊 github stats
+## 📊 Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dammyolujobi&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dammyolujobi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dammyolujobi&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dammyolujobi&theme=tokyonight)
+
+![Snake animation]
+https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
 
 ---
 
