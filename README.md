@@ -28,7 +28,7 @@ currently learning **Rust** 🦀 | based in **Nigeria 🇳🇬**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dammyolujobi&theme=tokyonight)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dammyolujobi&theme=tokyonight&hide_border=true&layout=donut)
 
 ---
 
