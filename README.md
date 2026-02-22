@@ -1,4 +1,4 @@
-# hey, i'm olujobi david 👋
+# hey, i'm olujobi damilola david 👋
 
 **backend developer** | building APIs, databases, and CLI tools
 
@@ -28,11 +28,47 @@ currently learning **Rust** 🦀 | based in **Nigeria 🇳🇬**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dammyolujobi&theme=tokyonight)
 
-![Snake animation]
-https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dammyolujobi/Ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammyolujobi&repo=Ecommerce&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dammyolujobi/News-Article-Classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammyolujobi&repo=News-Article-Classifier&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/dammyolujobi/Student-Performance-Predictor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammyolujobi&repo=Student-Performance-Predictor&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dammyolujobi/todo-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammyolujobi&repo=todo-cli&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 <div align="center">
   <i>simple, functional, fast. 🚀</i>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dammyolujobi&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
